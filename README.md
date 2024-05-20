@@ -1,5 +1,5 @@
 # Call-Centre-Dashboard
-![](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FPradeeppotnuri728%2FCall-Centre-Dashboard%2Fmain%2F01%2520Call-Center-Dataset.xlsx&wdOrigin=BROWSELINK)
+![](https://github.com/Pradeeppotnuri728/Call-Centre-Dashboard/blob/main/Screenshot%202024-05-20%20211314.png)
 ## Key Features
 
 ### 1. Key Metrics and KPIs
